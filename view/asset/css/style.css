@@ -1,0 +1,44 @@
+.my-header{
+    padding: 0px;
+}
+.new-btn{
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.sub{
+    font-size:25px;
+}
+img{
+    width: 150px;
+    height: 40px;
+}
+.my-nav{
+    margin-right: 0px;
+}
+.title-text{
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: -12px;
+    
+}
+.img-css{
+    width :550px;
+    height: auto;
+}
+.img-fea{
+    width: 100%;
+    height: auto;
+}
+
+.contact-name input{
+    width:100%;
+}
+.m-bottom{
+    margin-bottom: -45px;
+}
+.m-right{
+    margin-right: -24px;
+    
+}
